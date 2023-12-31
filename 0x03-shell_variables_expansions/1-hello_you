@@ -1,2 +1,2 @@
 #!/bash/
-echo "hello $(hostname)"
+echo hello $USER
